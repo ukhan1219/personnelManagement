@@ -1,0 +1,26 @@
+		Report created on 12/02/2023
+		***********************
+Faculty Members
+-------------------------
+	1. john miller
+	ID: jo2194
+	professor, engineering
+
+Staff Members
+-------------------------
+	1. jamal kareem
+	ID: ja2934
+	english, Full Time
+
+Students
+-------------------------
+	1. julia alvazre
+	ID: ju1245
+	GPA: 3.28
+	Credit Hours: 7
+
+	2. matt jones
+	ID: ma2955
+	GPA: 2.78
+	Credit Hours: 0
+
