@@ -29,4 +29,4 @@ To use PersonnelManagement:
 -  Java Development Kit (JDK)
 -  A Java IDE such as IntelliJ IDEA, Eclipse, or NetBeans
 ## Contributing
-If you have suggestions for enhancing the application or adding new features, feel free to open an issue or submit a pull request. Contributions to improve the functionality or usability of PersonnelManagement are welcome.
+If you have suggestions for enhancing the application or adding new features, feel free to reach out for improvements and advancements.
